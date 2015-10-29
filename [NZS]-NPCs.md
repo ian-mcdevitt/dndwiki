@@ -1,10 +1,23 @@
+## Evenbrook NPCs
 * [[Kalt Peter]]
-* [[Frostmantle Family|Families - Frostmantle]]
-* [[Bronzeleaf Family|Families]]
-* [[Daybrooke Family]]
-* [[Riverbeard Family]]
-* [[Firemaw Family]]
-* [[Jim]]
+* [[Jim Darkmagic]]
+* Clergy:
+ * [[Arauthator]]
+ * [[Thor]]
+ * [[Shae]]
+ * [[Telsa]]
+ * [[Hakour]]
+* Families:
+ * [[Frostmantle|Families: Frostmantle]]
+ * [[Bronzeleaf|Families: Bronzeleaf]]
+ * [[Daybrooke|Families: Daybrooke]]
+ * [[Riverbeard|Families: Riverbeard]]
+ * [[Firemaw|Families: Firemaw]]
+ * [[Farguard|Families: Farguard]]
+ * [[Commonshield|Families: Commonshield]]
+ * [[Moltencore|Families: Moltencore]]
+ * [[Downwhisper|Families: Downwhisper]]
+ * [[Snowlight|Families: Snowlight]]
 * Refugees:
  * Guards:
   * [[Guy]]
@@ -27,3 +40,7 @@
  * Barbara
  * Yolanda
  * Stephalee
+ 
+ ## Titanrock NPCs
+ 
+ ## River's Maw NPCs
