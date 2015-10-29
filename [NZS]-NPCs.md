@@ -1,6 +1,6 @@
 * [[Kalt Peter]]
-* [[Frostmantle Family|families/frostmantle]]
-* [[Bronzeleaf Family]]
+* [[Frostmantle Family|Families - Frostmantle]]
+* [[Bronzeleaf Family|Families]]
 * [[Daybrooke Family]]
 * [[Riverbeard Family]]
 * [[Firemaw Family]]
