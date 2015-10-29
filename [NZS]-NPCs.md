@@ -20,12 +20,12 @@
  * [[Snowlight|Families: Snowlight]]
 * Refugees:
  * Guards:
-  * - [[Guy]]
-  * - John
-  * - Joe
-  * - Chris
-  * - Luke
-  * - Ian
+  * * [[Guy]]
+  * * John
+  * * Joe
+  * * Chris
+  * * Luke
+  * * Ian
  * Bob
  * Jimmy
  * Mike
