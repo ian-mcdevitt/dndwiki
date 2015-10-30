@@ -1,12 +1,16 @@
 ## Evenbrook NPCs
+
+### VIPs
 * [[Kalt Peter]]
 * [[Jim Darkmagic]]
+
 ### Clergy:
 * [[Arauthator]]
 * [[Thor]]
 * [[Shae]]
 * [[Telsa]]
 * [[Hakour]]
+
 ### Families:
 * [[Frostmantle|Families: Frostmantle]]
 * [[Bronzeleaf|Families: Bronzeleaf]]
@@ -18,6 +22,7 @@
 * [[Moltencore|Families: Moltencore]]
 * [[Downwhisper|Families: Downwhisper]]
 * [[Snowlight|Families: Snowlight]]
+
 ### Refugees:
 * Guards:
  * [[Guy]]
@@ -40,7 +45,7 @@
 * Barbara
 * Yolanda
 * Stephalee
+
+## Titanrock NPCs
  
- ## Titanrock NPCs
- 
- ## River's Maw NPCs
+## River's Maw NPCs
