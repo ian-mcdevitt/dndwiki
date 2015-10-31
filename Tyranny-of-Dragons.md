@@ -5,3 +5,4 @@ Players:
 * Three Dreaded Ones
 * Spirits
 * Gods (MUCH weakened)
+* The party of apparently-incredibly-powerful dickwads.
