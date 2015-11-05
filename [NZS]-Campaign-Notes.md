@@ -1,6 +1,6 @@
 Hooks:
 
-[[Copper Dragon|Tefydarian]] swoops down in town center:
+[[Copper Dragon (Tefydarian)|Tefydarian]] swoops down in town center:
 * Grabs someone ( [[Lana Spiderbash|Families: Spiderbash]] )
 * Says his hoard was plundered - demands 1000g
 * Is actually insane; magic item in his hoard makes him think he was robbed
