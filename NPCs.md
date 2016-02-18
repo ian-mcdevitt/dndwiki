@@ -57,6 +57,18 @@ Halflings (40)
 
 ---
 
+Elves (29)
+* [[Orron|Families: Orron]] (4)
+* [[Nallveil|Families: Nallveil]] (4)
+* [[Cromveil|Families: Cromveil]] (4)
+* [[Ondoval|Families: Ondoval]] (4)
+* [[Lithloth|Families: Lithloth]] (4)
+* [[Ondorina|Families: Ondorina]] (3)
+* [[Gaeresel|Families: Gaeresel]] (3)
+* [[Tanbrinil|Families: Tanbrinil]] (3)
+
+---
+
 Half-Elves (5)
 * [[Garion Narismyr]]
 * [[Armordil Gaaneil]]
