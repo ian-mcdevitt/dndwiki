@@ -12,7 +12,9 @@
 * [[Hakour]]
 
 ### Families:
+
 ---
+
 Humans (186)
 * [[Daybrooke|Families: Daybrooke]]
 * [[Riverbeard|Families: Riverbeard]]
@@ -20,23 +22,33 @@ Humans (186)
 * [[Commonshield|Families: Commonshield]]
 * [[Downwhisper|Families: Downwhisper]]
 * [[Spiderbash|Families: Spiderbash]]
+
 ---
+
 Dwarves (29)
 * [[Frostmantle|Families: Frostmantle]]
 * [[Bronzeleaf|Families: Bronzeleaf]]
 * [[Moltencore|Families: Moltencore]]
 * [[Titanrock|Families: Titanrock]]
 * [[Orcmaul|Families: Orcmaul]]
+
 ---
+
 Dragonborn (10)
 * [[Firemaw|Families: Firemaw]]
+
 ---
+
 Tieflings (4)
 * [[Snowlight|Families: Snowlight]]
+
 ---
+
 Halflings (40)
 * [[Wheatmark|Families: Wheatmark]]
+
 ---
+
 Half-Elves (5)
 * [[Garion Narismyr]]
 * [[Armordil Gaaneil]]
