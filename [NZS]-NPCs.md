@@ -26,26 +26,26 @@ Humans (186)
 ---
 
 Dwarves (29)
-* [[Frostmantle|Families: Frostmantle]]
-* [[Bronzeleaf|Families: Bronzeleaf]]
-* [[Moltencore|Families: Moltencore]]
-* [[Titanrock|Families: Titanrock]]
-* [[Orcmaul|Families: Orcmaul]]
+* [[Frostmantle|Families: Frostmantle]] (3)
+* [[Bronzeleaf|Families: Bronzeleaf]] (8)
+* [[Moltencore|Families: Moltencore]] (6, and 1 deceased)
+* [[Titanrock|Families: Titanrock]] (2)
+* [[Orcmaul|Families: Orcmaul]] (9)
 
 ---
 
 Dragonborn (10)
-* [[Firemaw|Families: Firemaw]]
+* [[Firemaw|Families: Firemaw]] (10)
 
 ---
 
 Tieflings (4)
-* [[Snowlight|Families: Snowlight]]
+* [[Snowlight|Families: Snowlight]] (4)
 
 ---
 
 Halflings (40)
-* [[Wheatmark|Families: Wheatmark]]
+* [[Wheatmark|Families: Wheatmark]] (40)
 
 ---
 
