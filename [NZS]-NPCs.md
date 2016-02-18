@@ -30,15 +30,14 @@ Dwarves (29)
 ---
 Dragonborn (10)
 * [[Firemaw|Families: Firemaw]]
-
 ---
-Tiefling (4)
+Tieflings (4)
 * [[Snowlight|Families: Snowlight]]
---- (40)
-Halfling
+---
+Halflings (40)
 * [[Wheatmark|Families: Wheatmark]]
-
-### Half-Elves:
+---
+Half-Elves (5)
 * [[Garion Narismyr]]
 * [[Armordil Gaaneil]]
 * [[Raegdil Mithagaar]]
