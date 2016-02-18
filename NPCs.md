@@ -24,12 +24,32 @@ Humans (186)
 * [[Commonshield|Families: Commonshield]] (5)
 * [[Downwhisper|Families: Downwhisper]] (6)
 * [[Spiderbash|Families: Spiderbash]] (7)
-* [[Frostroot|Families: Frostroot]]
-* [[Steelbreaker|Families: Steelbreaker]]
-* [[Marshchaser|Families: Marshchaser]]
-* [[Oatkeeper|Families: Oatkeeper]]
-* [[Stillwhisk|Families: Stillwhisk]]
-* [[
+* [[Frostroot|Families: Frostroot]] (3)
+* [[Steelbreaker|Families: Steelbreaker]] (2)
+* [[Marshchaser|Families: Marshchaser]] (9)
+* [[Oatkeeper|Families: Oatkeeper]] (5)
+* [[Stillwhisk|Families: Stillwhisk]] (8)
+* [[Rageblood|Families: Rageblood]] (7)
+* [[Graygold|Families: Graygold]] (10)
+* [[Dwarfmaze|Families: Dwarfmaze]] (10)
+* [[Boltlock|Families: Boltlock]] (10)
+* [[Whiteflare|Families: Whiteflare]] (2)
+* [[Tonguestorm|Families: Tonguestorm]] (8)
+* [[Oakenglaze|Families: Oakenglaze]] (10)
+* [[Winddagger|Families: Winddagger]] (9)
+* [[Moorgazer|Families: Moorgazer]] (6)
+* [[Flarelander|Families: Flarelander]] (2)
+* [[Ledford|Families: Ledford]] (8)
+* [[Hobbs|Families: Hobbs]] (6)
+* [[Woodward|Families: Woodward]] (8)
+* [[Middleton|Families: Middleton]] (2)
+* [[Ingram|Families: Ingram]] (8)
+* [[Samuels|Families: Samuels]] (10)
+* [[Ainsworth|Families: Ainsworth]] (7)
+* [[Yates|Families: Yates]] (6)
+* [[Bancroft|Families: Bancroft]] (5)
+* [[Gentry|Families: Gentry]] (4)
+* [[Hurst|Families: Hurst]] (10)
 
 ---
 
