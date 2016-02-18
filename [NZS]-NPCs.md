@@ -1,4 +1,4 @@
-# Evenbrook NPCs
+## Evenbrook NPCs
 
 ### VIPs
 * [[Kalt Peter]]
@@ -12,18 +12,37 @@
 * [[Hakour]]
 
 ### Families:
-
-#### Dwarves:
-* [[Frostmantle|Families: Frostmantle]]
-* [[Bronzeleaf|Families: Bronzeleaf]]
+---
+Humans (186)
 * [[Daybrooke|Families: Daybrooke]]
 * [[Riverbeard|Families: Riverbeard]]
-* [[Firemaw|Families: Firemaw]]
 * [[Farguard|Families: Farguard]]
 * [[Commonshield|Families: Commonshield]]
-* [[Moltencore|Families: Moltencore]]
 * [[Downwhisper|Families: Downwhisper]]
+* [[Spiderbash|Families: Spiderbash]]
+---
+Dwarves (29)
+* [[Frostmantle|Families: Frostmantle]]
+* [[Bronzeleaf|Families: Bronzeleaf]]
+* [[Moltencore|Families: Moltencore]]
+* [[Titanrock|Families: Titanrock]]
+* [[Orcmaul|Families: Orcmaul]]
+---
+Dragonborn (10)
+* [[Firemaw|Families: Firemaw]]
+---
+Tiefling (4)
 * [[Snowlight|Families: Snowlight]]
+--- (40)
+Halfling
+* [[Wheatmark|Families: Wheatmark]]
+
+### Half-Elves:
+* [[Garion Narismyr]]
+* [[Armordil Gaaneil]]
+* [[Raegdil Mithagaar]]
+* [[Veassen Haalvaina]]
+* [[Saelion Elenren]]
 
 ### Refugees:
 * Guards:
