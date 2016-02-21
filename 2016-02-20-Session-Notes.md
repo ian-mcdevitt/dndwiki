@@ -7,3 +7,12 @@ You are accompanied by five Adherents of the Eternal Flame, who have begged of y
 The quaking stops, and the dragon takes wing, beginning to fly lazy circles around the room.
 
 "Who are you to wake Halinaxus, the Eternal Flame?"
+
+---
+---
+
+## Post Session Notes
+
+* Players want to search for A Dragon, and hope that it's Halinaxus.
+* Knox wants to talk to Investi about Utureshk, Halinaxus and where dragons live (Investi is thoroughly surprised that they confronted Halinaxus and lived)
+* Sirah want to know if the other gods got any stronger
