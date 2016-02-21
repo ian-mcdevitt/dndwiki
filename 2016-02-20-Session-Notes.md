@@ -9,10 +9,11 @@ The quaking stops, and the dragon takes wing, beginning to fly lazy circles arou
 "Who are you to wake Halinaxus, the Eternal Flame?"
 
 ---
----
 
 ## Post Session Notes
 
+* The players are aware that Halinaxus is The Eternal Flame and also The Eternal Molten Core.
+* Halinaxus' lair spewed fire into the air for a while, then flooded with lava.
 * Players want to search for A Dragon, and hope that it's Halinaxus.
 * Knox wants to talk to Investi about Utureshk, Halinaxus and where dragons live (Investi is thoroughly surprised that they confronted Halinaxus and lived)
 * Sirah want to know if the other gods got any stronger
