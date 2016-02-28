@@ -15,5 +15,9 @@ Player's Objectives:
 * Knox wants to talk to Investi about Utureshk, Halinaxus, and where dragons live
 	* Investi is thoroughly surprised that not only does Halinaxus actually exist, they confronted him and lived
     * He's a bit suspicious of their power (push them to lie about being gods)
-    * Dragons are incredibly solitary, and they all descend from five Spirit Dragons:
-    	* Halinaxus, Red
+    * Dragons are incredibly solitary and familial, and they all descend from five Progenitor Dragons, each of whom is a spirit:
+    	* Halinaxus, Red (M); Spirit of the Eternal Molten Core
+        * Livjatan, Blue (F); Spirit of the Fury of the Sky
+        * Mnementh, Black (M); Spirit of the Sulfurous Depths
+        * Glaurung, Green (M); Spirit of the Slimy Dark
+        * Chrysophylax, White (F); Spirit of the Wintry Peak
