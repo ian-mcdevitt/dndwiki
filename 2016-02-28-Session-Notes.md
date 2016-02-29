@@ -21,3 +21,12 @@ Player's Objectives:
         * Mnementh, Black (M); Spirit of the Sulfurous Depths
         * Glaurung, Green (M); Spirit of the Slimy Dark
         * Chrysophylax, White (F); Spirit of the Wintry Peak
+        
+---
+
+### Post-Session Notes
+
+* They have somehow managed to not have the spirit-names of Blue, Black, and White
+* They are in a bigass tunnel beneath Glaurung's lair, just killed a Purple Worm and Bulettes.
+* They want to check out the rest of the dragons, to see if they were corrupted.
+* I'm thinking don't have them corrupted, or it'll just turn into a "track down all the fucking Dragon Aspects" thing. Just let Halinaxus be a General, and let them waste time while Utureshk shits it all up.
